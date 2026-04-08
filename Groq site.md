@@ -1,0 +1,3 @@
+## https://groq.com/
+
+here you can create your account and get your `api key`.
